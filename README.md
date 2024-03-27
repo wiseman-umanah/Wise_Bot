@@ -20,8 +20,10 @@ Before you can run Wise_Bot on your local machine, make sure you have the follow
 # Installation
 
 1. Clone the repository to your local machine:
-```git clone https://github.com/yourusername/Wise_Bot.git
-cd Wise_Bot```
+```
+git clone https://github.com/yourusername/Wise_Bot.git
+cd Wise_Bot
+```
 
 2. Install the required Python packages:
 `pip install -r requirements.txt`
@@ -43,6 +45,7 @@ Start a conversation with Wise_Bot on Telegram.
 Use the /start command to begin your quiz journey.
 Select a category from the provided list.
 Answer the questions to the best of your ability. Good luck!
+
 ![bot interaction](image.png)
 
 
@@ -57,9 +60,9 @@ Don't forget to give the project a star! Thanks again!
 
 # Fork the Project
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
+Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+Push to the Branch (`git push origin feature/AmazingFeature`)
 Open a Pull Request
 
 # License
