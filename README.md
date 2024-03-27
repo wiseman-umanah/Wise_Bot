@@ -73,3 +73,5 @@ Your Name - [Wiseman Umanah](https://www.twitter.com/wisemanjoearts)
 
 Project Link: https://github.com/wiseman-umanah/Wise_Bot.git
 
+You can chat with this bot on [telegram](https://t.me/@personalTube_Bot)
+
